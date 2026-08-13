@@ -1,6 +1,6 @@
 # -BARNIEGO-distance-calculator-
 
-'''markdown
+
 # Distance calculator
 
 
@@ -23,14 +23,17 @@ Our program is all about calculating a distance between two points using the dis
 
 
 ## Sample output
+```
 Enter the value of x1: 4
 Enter the value of x2: 5
 Enter the value of y1: 6
 Enter the value of y2: 7
 The distance between the two points is: 1.4142135623730951
+```
 
   ## Author
+  ```
   Name: Alexis Christelle A. Barniego
   Section: 8-Mahogany
 
-  '''markdown
+```
