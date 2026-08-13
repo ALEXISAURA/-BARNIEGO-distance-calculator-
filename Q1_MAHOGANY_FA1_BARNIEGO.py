@@ -1,12 +1,18 @@
 import math
 
+#Enter the required value
+
 Value_of_x1 = float(input("Enter the value of x1: "))
 Value_of_x2 = float(input("Enter the value of x2: "))
 Value_of_y1 = float(input("Enter the value of y1: "))
 Value_of_y2 = float(input("Enter the value of y2: "))
 
+#Grouped points for the formula
+
 Point1 = (Value_of_x1, Value_of_y1)
 Point2 = (Value_of_x2, Value_of_y2)
+
+#The formula to run the code and get the two points
 
 Distance = math.sqrt(math.pow(Value_of_x2 - Value_of_x1, 2) + math.pow(Value_of_y2 - Value_of_y1, 2))
 print("The distance between the two points is:", Distance)
